@@ -1,0 +1,6 @@
+name: UHCRun
+version: '${version}'
+
+main: org.uHCRun.UHCRun
+api-version: '1.21.11'
+load: POSTWORLD

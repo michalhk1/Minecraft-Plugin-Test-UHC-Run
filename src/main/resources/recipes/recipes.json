@@ -1,0 +1,115 @@
+{
+  "recipes": [
+    {
+      "name": "StonePickaxe",
+      "displayName": "Stone Pickaxe",
+      "shape": ["BBB", " A ", " A "],
+      "ingredients": {
+        "A": "STICK",
+        "B": "OAK_PLANKS"
+      },
+      "resultMaterial": "STONE_PICKAXE",
+      "enchantments": {
+        "EFFICIENCY": 2,
+        "UNBREAKING": 3
+      }
+    },
+    {
+      "name": "IronPickaxe",
+      "displayName": "Iron Pickaxe",
+      "shape": ["BBB", " A ", " A "],
+      "ingredients": {
+        "A": "STICK",
+        "B": "IRON_INGOT"
+      },
+      "resultMaterial": "IRON_PICKAXE",
+      "enchantments": {
+        "EFFICIENCY": 2,
+        "UNBREAKING": 3
+      }
+    },
+    {
+      "name": "DiamondPickaxe",
+      "displayName": "Diamond Pickaxe",
+      "shape": ["BBB", " A ", " A "],
+      "ingredients": {
+        "A": "STICK",
+        "B": "DIAMOND"
+      },
+      "resultMaterial": "DIAMOND_PICKAXE",
+      "enchantments": {
+        "EFFICIENCY": 2,
+        "UNBREAKING": 3
+      }
+    },
+    {
+      "name": "LightApple",
+      "displayName": "Light Apple",
+      "shape": [
+        " B ",
+        "BAB",
+        " B "
+      ],
+      "ingredients": {
+        "A": "APPLE",
+        "B": "GOLD_INGOT"
+      },
+      "resultMaterial": "GOLDEN_APPLE",
+      "enchantments": {}
+    },
+    {
+      "name": "StoneAxe",
+      "displayName": "Stone Axe",
+      "shape": [
+        "BB",
+        "BA",
+        " A"
+      ],
+      "ingredients": {
+        "A": "STICK",
+        "B": "OAK_PLANKS"
+      },
+      "resultMaterial": "STONE_AXE",
+      "enchantments": {
+        "EFFICIENCY": 2,
+        "UNBREAKING": 3
+      }
+    },
+    {
+      "name": "IronAxe",
+      "displayName": "Iron Axe",
+      "shape": [
+        "BB",
+        "BA",
+        " A"
+      ],
+      "ingredients": {
+        "A": "STICK",
+        "B": "IRON_INGOT"
+      },
+      "resultMaterial": "IRON_AXE",
+      "enchantments": {
+        "EFFICIENCY": 2,
+        "UNBREAKING": 3
+      }
+    },
+    {
+      "name": "DiamondAxe",
+      "displayName": "Diamond Axe",
+      "shape": [
+        "BB",
+        "BA",
+        " A"
+      ],
+      "ingredients": {
+        "A": "STICK",
+        "B": "DIAMOND"
+      },
+      "resultMaterial": "DIAMOND_AXE",
+      "enchantments": {
+        "EFFICIENCY": 2,
+        "UNBREAKING": 3
+      }
+    }
+  ]
+}
